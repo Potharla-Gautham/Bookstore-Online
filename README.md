@@ -1,17 +1,13 @@
 # Online-Book-Store
-An online Book Store created with Python / Flask rest, MySql,Angular and Bootstrap 
-Features
-use of several data structures for optimization techniques
-A full fledged functionality with Modules like cart, wishlist, payment, order processing 
-Real time data integration from Database .
-Responsive layout for extra small, Large Medium devices and browsers(ofcourse)
-# How to run project locally
-1. Make sure you have MYSQL version 5.7 and above since it uses full text search
-2. checkout project form git 
-3. open cmd and go to root of the project
-4. execute "cd db"
-5. execute all queries from create_tables.sql
-6. on cmd go to root of project 
-7. run command "python setup.py install"
-8. run command python server.py
-
+ A Python/Flask rest-based, MySql, Angular, and Bootstrap-based online book store Features
+ use of several data structures for optimization techniques
+ a fully functioning system with modules for payment, order processing, and a wishlist Integration of data from a database in real time. Responsive layout for extra small, Large Medium devices and browsers(ofcourse)
+ # How to run a local project 
+ 1.  Make sure you have MYSQL version 5.7 and above since it uses full text search
+ 2. checkout project form git 
+ 3. Launch cmd and navigate to the project's root.
+ 4. Run "cd db."
+ 5. Execute every query in the create_tables.sql file.
+ 6. Go to the project's root via cmd.
+ 7. Execute the "python setup.py install" command.
+ 8. Enter the python server.py command.
